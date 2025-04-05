@@ -1,7 +1,7 @@
  Login Registration Page
 
- Developed a Java Login Registration Page project, incorporating user authentication and 
-registration functionalities. Utilized a JSP, Servlet and implemented a UserDAO for database 
-interaction and Implemented a simple database layer for user data storage and retrieval.
+ Developed a Login Registration Page using Java to manage user authentication and registration processes. The project utilizes AWT (Abstract Window Toolkit) for designing a user-friendly graphical interface, while SQL is used to handle user data storage and retrieval.
 
-Skills: Java,Servlet,JSP,Swing
+
+
+Skills: Java,SQL,Swing
